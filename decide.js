@@ -1,3 +1,4 @@
+<!--https://github.com/nqkha06/zufile/blob/main/public/js/decide.js-->
 window._AR = {
     blg: {
         id: "882691899717496050",
